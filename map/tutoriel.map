@@ -1,0 +1,25 @@
+t."Welcome to Endless City Escape
+Press [ENTER] to continue."
+t."Try to move with the directional pad
+Once it's done press [ENTER] again."
+t."In Endless City Escape your character
+have many spells. Try to cast one with [W]."
+t."You also have the [X] and [C] button. Use
+your spells wisely because you have a cooldown."
+t."You will encounter some ennemies, defend
+yourself or try to avoid them to survive."
+s.001.01.08000
+t."It may be easy to avoid one, but there may
+be more ennemies at the same time."
+t."Now it's your turn!"
+s.000.01.06000
+s.001.01.06000
+s.000.01.06000
+s.001.01.06000
+s.000.01.06000
+s.000.01.06000
+s.001.01.06000
+s.000.01.06000
+s.001.01.06000
+s.000.02.08000
+e.

@@ -1,0 +1,34 @@
+Map creation guide:
+
+Instructions:
+"s." -> spawn a monster
+"t." -> display a text box
+"e." -> display the win window
+
+"s." Spawn options:
+- ID of the monster
+	000 (car)
+	001 (truck)
+	002 (big)
+	003 (geisha)
+	004 (oldman)
+	005 (ufo)
+	006 (yeti)
+	007 (aerian)
+- Level of the monster
+	from 01 to 80
+- Delay for the next command
+	in milliseconds
+
+example : s.004.54.04000
+
+"t." Text options:
+- Text to display
+	Should be surrounded by ""
+	2 lines max
+	50 characters per line max (approx.)
+
+example : t."Hello"
+
+"e." Ending options:
+- No options

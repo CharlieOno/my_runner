@@ -1,4 +1,4 @@
-# my_cook
+# my_runner
 Jeu de type Runner/RPG en C en utilisant la librairie CSFML. <br/>
 
 - 3 différents joueurs
